@@ -14,7 +14,7 @@
         "name": "NetTruyen Editor",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": ["https://www.nettruyenco.com/","https://www.nettruyenup.vn/"],
+        "baseUrl": "https://www.nettruyenbb.com, https://www.nettruyenco.vn, https://www.nettruyenup.vn",
         "versionId": 1,
         "hasCloudflare": 1
       }
