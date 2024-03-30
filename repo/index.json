@@ -14,7 +14,7 @@
         "name": "NetTruyen Editor",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "nettruyen.hopto.org",
+        "baseUrl": "http://nettuyen.hopto.org",
         "versionId": 1,
         "hasCloudflare": 1
       }
