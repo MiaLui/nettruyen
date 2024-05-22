@@ -42,22 +42,21 @@
   },
   {
     "name": "Tachiyomi: TruyenQQ",
-    "pkg": "eu.kanade.tachiyomi.revived.vi.truyenqq",
-    "apk": "tachiyomi-vi.truyenqq-editor-v1.4.12.apk",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqq",
+    "apk": "tachiyomi-vi.truyenqq-v1.4.14.apk",
     "lang": "vi",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "TruyenQQ Editor",
+        "name": "TruyenQQ",
         "lang": "vi",
         "id": "2553532324170433933",
-        "baseUrl": "http://truyenqq.hopto.org/",
-        "versionId": 1,
-        "hasCloudflare": 1
+        "baseUrl": "http://truyenqq.hopto.org",
+        "versionId": 1
       }
     ]
   }
