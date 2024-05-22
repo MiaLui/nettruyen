@@ -21,7 +21,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: NetTruyenCO (unoriginal)",
+    "name": "Tachiyomi: NetTruyenCO",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenco",
     "apk": "tachiyomi-vi.nettruyenco-v1.4.6.apk",
     "lang": "vi",
@@ -32,10 +32,10 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "NetTruyenCO (unoriginal)",
+        "name": "NetTruyenCO",
         "lang": "vi",
         "id": "3563992092786616290",
-        "baseUrl": "http://nettruyen.hopto.org/",
+        "baseUrl": "https://nettruyencc.com",
         "versionId": 1
       }
     ]
