@@ -23,7 +23,7 @@
   {
     "name": "Tachiyomi: NetTruyenCO",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenco",
-    "apk": "tachiyomi-vi.nettruyenco-v1.4.6.apk",
+    "apk": "tachiyomi-vi.nettruyenco-v1.4.7.apk",
     "lang": "vi",
     "code": 6,
     "version": "1.4.7",
@@ -35,7 +35,7 @@
         "name": "NetTruyenCO",
         "lang": "vi",
         "id": "3563992092786616290",
-        "baseUrl": "https://nettruyencc.com",
+        "baseUrl": "https://nettruyenaa.com",
         "versionId": 1
       }
     ]
